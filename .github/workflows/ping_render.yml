@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Curl ping Render
-        run: curl -s https://<your-render-service>.onrender.com/ping
+        run: curl -s https://similarity-0dbg.onrender.com/ping
